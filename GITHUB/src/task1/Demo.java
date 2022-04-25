@@ -8,6 +8,7 @@ public static void main(String[] args) {
 	
 	System.out.println("This is GIThub project");
 	
+	System.out.println("This is master program");
 	
 }
 }
